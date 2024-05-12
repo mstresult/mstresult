@@ -1,0 +1,23 @@
+.card {
+    padding-top: 20px;
+}
+
+@media (max-width:500px) {
+    .mobilefont {
+        font-size: 0.8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mobilecard {
+        width: 0.1rem;
+        height: 20rem;
+
+    }
+
+    .mobileimg {
+        width: 7rem;
+        height: 7rem;
+    }
+}
